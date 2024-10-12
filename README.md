@@ -7,6 +7,7 @@ within text data. This research contributes to the evolving field of sentiment
 analysis by showcasing the effectiveness of combining GNNs with existing
 NLP frameworks, offering insights into the nuanced emotional landscape of
 digital communications during a global crisis.
+Please view the poster and report via our website: https://yuxinguo13.github.io/capstone_project/
 
 ## Environment Setup
 
