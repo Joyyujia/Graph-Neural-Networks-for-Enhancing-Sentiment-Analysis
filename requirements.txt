@@ -1,0 +1,12 @@
+tensorflow-gpu 1.15
+autocorrect
+contractions
+inflect
+networkx
+nltk
+numpy
+pandas
+requests
+scipy
+scikit-learn
+transformers
