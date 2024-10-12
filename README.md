@@ -8,7 +8,7 @@ analysis by showcasing the effectiveness of combining GNNs with existing
 NLP frameworks, offering insights into the nuanced emotional landscape of
 digital communications during a global crisis.
 
-Please view the poster and report via our website: https://yuxinguo13.github.io/capstone_project/
+Please view our poster, report, and datasets via our website: https://yuxinguo13.github.io/capstone_project/
 
 ## Environment Setup
 
